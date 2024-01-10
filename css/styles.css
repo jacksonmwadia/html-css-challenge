@@ -1,0 +1,33 @@
+body {
+    padding-top: 78px;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.main {
+    width: 15%;
+    margin: 0 auto;
+    background-color: hsl(0, 0%, 100%);
+    padding: 1rem;
+    border-radius: 20px;
+    
+}
+
+.upper {
+    margin: 0 auto;
+    width: 100%;
+    
+    
+}
+
+.upper img {
+    width: 100%;
+    border-radius: 7px;
+}
+
+h4{font-family: Outfit;
+font-size: 400;
+}
+
+p{font-family: Outfit;
+text-align: center;
+padding-top: 0px;}
